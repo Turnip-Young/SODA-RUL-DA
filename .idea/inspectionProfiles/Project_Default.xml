@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+          <option value="torch" />
+          <option value="einops" />
+          <option value="huggingface_hub" />
+          <option value="matplotlib" />
+          <option value="tqdm" />
+          <option value="safetensors" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
